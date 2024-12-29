@@ -31,6 +31,7 @@ Follow these steps to get the project up and running on your local machine:
    cd dice-game
    
 2. **Install dependencies:**
+   Make sure you have Node.js and npm installed. Then, run the following command to install the necessary dependencies:
    npm install
    
 4. **Start the development server:**
