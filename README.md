@@ -27,14 +27,17 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/dice-game.git
+   git clone https://github.com/Dnyanu067/Dice-Game-Project.git
    cd dice-game
    
 2. **Install dependencies:**
+   npm create vite@latest
+   npm i
    npm install
    
 4. **Start the development server:**
    npm start
+   npm run dev
    
 6. **Access the project:**
    http://localhost:3000
